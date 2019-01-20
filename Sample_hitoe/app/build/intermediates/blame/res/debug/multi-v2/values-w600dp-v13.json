@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ko_he\\AndroidStudioProjects\\Sample_hitoe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ko_he\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\6e6f19ce6ca24644a21723db5efd10f8\\res\\values-w600dp\\values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "283,347",
+                        "endColumns": "63,54",
+                        "endOffsets": "342,397"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}
